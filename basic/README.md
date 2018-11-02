@@ -6,6 +6,20 @@
     <br>
 </p>
 
+1. создал Действие по URL: 
+
+
+    http://yii2/index.php?r=site%2Fsay
+
+
+Результат:
+
+
+    Ёптить, работает!
+
+   
+- 
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 

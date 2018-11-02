@@ -6,11 +6,12 @@
     <br>
 </p>
 
+Закончил изучение документации на: https://www.yiiframework.com/doc/guide/2.0/ru/start-forms
+
 1. создал Действие по URL: 
 
 
     http://yii2/index.php?r=site%2Fsay
-
 
 Результат:
 
@@ -18,7 +19,16 @@
     Ёптить, работает!
 
    
-- 
+2. Работа с формами. URL:
+
+
+    http://yii2/index.php?r=site%2Fentry
+    
+Результат: 
+
+    Создана форма для ввода Имени и Email. Валидация данных и вывод их на экран или ошибку.
+
+--- 
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
